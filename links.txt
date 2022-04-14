@@ -1,0 +1,27 @@
+bands_with_id
+https://raw.githubusercontent.com/galilej/JSON-and-Images/main/bands_with_id.json
+
+books (ID,Rank,Title,Author,Published,Isbn13)
+https://raw.githubusercontent.com/galilej/JSON-and-Images/main/books.json
+
+external
+https://raw.githubusercontent.com/galilej/JSON-and-Images/main/externalDb.json
+
+genres (name, total)
+https://raw.githubusercontent.com/galilej/JSON-and-Images/main/genres.json
+
+---------------------------
+Data API MySafeInfo
+https://mysafeinfo.com/documentation/data
+
+Token
+iVAFH1QoZJtCTUN1f7rCZ5Kc6AWaEVyl
+-----------------------------------
+JSONPlaceholder
+https://jsonplaceholder.typicode.com/photos
+
+
+fetch('https://jsonplaceholder.typicode.com/todos/1')
+  .then(response => response.json())
+  .then(json => console.log(json))
+-------------------------------
